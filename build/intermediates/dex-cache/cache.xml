@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\fragment_fragment1\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\Administrator\Desktop\fragment_fragment1\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1_a5f46d6e7eb89290f3cf24a96e2f3c977d3a6581.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\fragment_fragment1\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\Administrator\Desktop\fragment_fragment1\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.2.1_bdf642bc964a2426d30f4f3f20feac1f2d5cb482.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\androidsdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\Administrator\Desktop\fragment_fragment1\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1_a3dc0b6f451575851a76efea01203f5f9bf2838b.jar" />
+    </item>
+
+</items>

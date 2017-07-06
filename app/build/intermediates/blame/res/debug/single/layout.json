@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\fragment_fragment1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab3.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\fragment_fragment1\\app\\src\\main\\res\\layout\\tab3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\fragment_fragment1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\fragment_fragment1\\app\\src\\main\\res\\layout\\fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\fragment_fragment1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab1.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\fragment_fragment1\\app\\src\\main\\res\\layout\\tab1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\fragment_fragment1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab2.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\fragment_fragment1\\app\\src\\main\\res\\layout\\tab2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\fragment_fragment1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bottom_bar.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\fragment_fragment1\\app\\src\\main\\res\\layout\\bottom_bar.xml"
+    }
+]
